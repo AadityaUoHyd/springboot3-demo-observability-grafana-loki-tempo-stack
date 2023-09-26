@@ -25,3 +25,26 @@ Run Fraud Detection Service Application
 2. Prometheus: http://localhost:9090
 3. Tempo: http://localhost:3110
 4. Loki: http://localhost:3100
+
+# Observe the metrices
+
+- The generic diagram of agenda :
+![](https://github.com/AadityaUoHyd/springboot3-with-observability-demo/blob/master/img.png)
+
+- Loan not approved cross check at POSTMAN :
+![](https://github.com/AadityaUoHyd/springboot3-with-observability-demo/blob/master/not_approved.png)
+
+- Prometheus
+![](https://github.com/AadityaUoHyd/springboot3-with-observability-demo/blob/master/prometheus.png)
+
+- Tempo :
+![](https://github.com/AadityaUoHyd/springboot3-with-observability-demo/blob/master/tempo.png)
+
+- Loki with log volume :
+![](https://github.com/AadityaUoHyd/springboot3-with-observability-demo/blob/master/loki_logVolume.png)
+
+- Loki with loan service :
+![](https://github.com/AadityaUoHyd/springboot3-with-observability-demo/blob/master/loki_with_the_loan_service.png)
+
+- Loki with fraud detection :
+![](https://github.com/AadityaUoHyd/springboot3-with-observability-demo/blob/master/loki_with_the_fraud_detection.png)
