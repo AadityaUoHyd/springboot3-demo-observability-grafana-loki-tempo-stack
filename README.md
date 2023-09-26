@@ -29,22 +29,22 @@ Run Fraud Detection Service Application
 # Observe the metrices
 
 - The generic diagram of agenda :
-![](https://github.com/AadityaUoHyd/springboot3-with-observability-demo/blob/master/img.png)
+![image0](https://github.com/AadityaUoHyd/springboot3-with-observability-demo/blob/master/img.png)
 
 - Loan not approved cross check at POSTMAN :
-![](https://github.com/AadityaUoHyd/springboot3-with-observability-demo/blob/master/not_approved.png)
+![image1](https://github.com/AadityaUoHyd/springboot3-with-observability-demo/blob/master/not_approved.png)
 
 - Prometheus
-![](https://github.com/AadityaUoHyd/springboot3-with-observability-demo/blob/master/prometheus.png)
+![image2](https://github.com/AadityaUoHyd/springboot3-with-observability-demo/blob/master/prometheus.png)
 
 - Tempo :
-![](https://github.com/AadityaUoHyd/springboot3-with-observability-demo/blob/master/tempo.png)
+![image3](https://github.com/AadityaUoHyd/springboot3-with-observability-demo/blob/master/tempo.png)
 
 - Loki with log volume :
-![](https://github.com/AadityaUoHyd/springboot3-with-observability-demo/blob/master/loki_logVolume.png)
+![image4](https://github.com/AadityaUoHyd/springboot3-with-observability-demo/blob/master/loki_logVolume.png)
 
 - Loki with loan service :
-![](https://github.com/AadityaUoHyd/springboot3-with-observability-demo/blob/master/loki_with_the_loan_service.png)
+![image5](https://github.com/AadityaUoHyd/springboot3-with-observability-demo/blob/master/loki_with_the_loan_service.png)
 
 - Loki with fraud detection :
-![](https://github.com/AadityaUoHyd/springboot3-with-observability-demo/blob/master/loki_with_the_fraud_detection.png)
+![image6](https://github.com/AadityaUoHyd/springboot3-with-observability-demo/blob/master/loki_with_the_fraud_detection.png)
