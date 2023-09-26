@@ -43,9 +43,6 @@ Run Fraud Detection Service Application
 - Loki with log volume :
 ![image4](https://github.com/AadityaUoHyd/springboot3-with-observability-demo/blob/master/loki_logVolume.png)
 
-#Source :
-- https://www.baeldung.com/ops/grafana-loki 
-- 
 - Loki with loan service :
 ![image5](https://github.com/AadityaUoHyd/springboot3-with-observability-demo/blob/master/loki_with_the_loan_service.png)
 
